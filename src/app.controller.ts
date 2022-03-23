@@ -3,7 +3,6 @@ import { AppService } from './app.service';
 import { Transaction } from './types/transaction';
 import { Balance } from './types/balance';
 import { Param } from '@nestjs/common';
-import * as rawbody from 'raw-body';
 
 class CreateThxDto {
   nature: string;
