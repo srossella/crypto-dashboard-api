@@ -35,13 +35,15 @@ Nest JS REST API to serve data about transactions and balances of a crypto dashb
 The endpoint is accessible at `http://localhost:3081/`. 
 
 The available endpoints are: 
-- GET /transactions
-- GET /balance/
-- GET /balance/:id
-- POST /transactions
+- `GET /transactions`
+- `GET /balance/`
+- `GET /balance/:id`
+- `POST /transactions`
 
+An example of a POST request in Postman is shown below. 
+![Postman screenshot](public/screenshot.PNG)
 
-A front-end user interface has been developed and is accessible [here](https://github.com/srossella/polluted-places-frontend).
+A front-end user interface has been developed and is accessible [here](https://github.com/srossella/crypto-dashboard-frontend).
 
 ### Built With
 
@@ -55,10 +57,10 @@ To run locally, `npm install`, then `nest start`
 
 Once the app is running locally, you can access the API at `http://localhost:3081`. Endpoints are: 
  
-- GET /transactions
-- GET /balance/
-- GET /balance/:id
-- POST /transactions
+- `GET /transactions`
+- `GET /balance/`
+- `GET /balance/:id`
+- `POST /transactions`
 
 
 ## Testing
