@@ -4,7 +4,7 @@
       "nature": {
         "code": "DEPOSIT"
       },
-      "createdOn": "15/1/2022, 14:02:04",
+      "createdOn": "15/1/2022, 07:02:04 AM",
       "amount": 0.01,
       "asset": "ETH",
       "user": {
@@ -16,7 +16,7 @@
       "nature": {
         "code": "DEPOSIT"
       },
-      "createdOn": "17/1/2022, 08:25:15",
+      "createdOn": "17/1/2022, 08:25:15 AM",
       "amount": 0.04,
       "asset": "ETH",
       "user": {
@@ -28,7 +28,7 @@
       "nature": {
         "code": "DEPOSIT"
       },
-      "createdOn": "18/1/2022, 18:04:01",
+      "createdOn": "18/1/2022, 06:04:01 PM",
       "amount": 0.007,
       "asset": "ETH",
       "user": {
@@ -40,7 +40,7 @@
       "nature": {
         "code": "DEPOSIT"
       },
-      "createdOn": "19/1/2022, 17:20:11",
+      "createdOn": "19/1/2022, 05:20:11 PM",
       "amount": 0.1,
       "asset": "BTC",
       "user": {
@@ -52,7 +52,7 @@
       "nature": {
         "code": "REWARDS"
       },
-      "createdOn": "03/2/2022, 07:09:48",
+      "createdOn": "03/2/2022, 07:09:48 AM",
       "amount": 0.003,
       "asset": "ETH",
       "user": {
@@ -64,7 +64,7 @@
       "nature": {
         "code": "REWARDS"
       },
-      "createdOn": "05/2/2022, 16:12:07",
+      "createdOn": "05/2/2022, 04:12:07 PM",
       "amount": 0.1,
       "asset": "BTC",
       "user": {
@@ -76,7 +76,7 @@
       "nature": {
         "code": "DEPOSIT"
       },
-      "createdOn": "11/2/2022, 13:19:33",
+      "createdOn": "11/2/2022, 01:19:33 PM",
       "amount": 0.008,
       "asset": "ETH",
       "user": {
@@ -88,7 +88,7 @@
       "nature": {
         "code": "DEPOSIT"
       },
-      "createdOn": "17/2/2022, 17:02:47",
+      "createdOn": "17/2/2022, 05:02:47 PM",
       "amount": 12.4,
       "asset": "DOT",
       "user": {
@@ -100,7 +100,7 @@
       "nature": {
         "code": "REWARDS"
       },
-      "createdOn": "22/2/2022, 16:15:22",
+      "createdOn": "22/2/2022, 04:15:22 PM",
       "amount": 16.2,
       "asset": "DOT",
       "user": {
@@ -112,7 +112,7 @@
       "nature": {
         "code": "INTEREST"
       },
-      "createdOn": "24/2/2022, 12:23:43",
+      "createdOn": "24/2/2022, 10:23:43 AM",
       "amount": 0.05,
       "asset": "BTC",
       "user": {
@@ -124,7 +124,7 @@
       "nature": {
         "code": "REWARDS"
       },
-      "createdOn": "25/2/2022, 05:03:28",
+      "createdOn": "25/2/2022, 05:03:28 AM",
       "amount": 2,
       "asset": "ETH",
       "user": {
@@ -136,7 +136,7 @@
       "nature": {
         "code": "DEPOSIT"
       },
-      "createdOn": "26/2/2022, 03:48:32",
+      "createdOn": "26/2/2022, 03:48:32 AM",
       "amount": 23,
       "asset": "ETH",
       "user": {
@@ -148,7 +148,7 @@
       "nature": {
         "code": "INTEREST"
       },
-      "createdOn": "27/2/2022, 20:16:13",
+      "createdOn": "27/2/2022, 08:16:13 PM",
       "amount": 30,
       "asset": "DOT",
       "user": {
@@ -160,7 +160,7 @@
       "nature": {
         "code": "DEPOSIT"
       },
-      "createdOn": "27/2/2022, 21:05:06",
+      "createdOn": "27/2/2022, 09:05:06 PM",
       "amount": 0.8,
       "asset": "BTC",
       "user": {
@@ -172,7 +172,7 @@
       "nature": {
         "code": "INTEREST"
       },
-      "createdOn": "02/3/2022, 18:09:02",
+      "createdOn": "02/3/2022, 06:09:02 PM",
       "amount": 17,
       "asset": "DOT",
       "user": {
@@ -184,7 +184,7 @@
       "nature": {
         "code": "REWARDS"
       },
-      "createdOn": "05/3/2022, 11:25:46",
+      "createdOn": "05/3/2022, 11:25:46 AM",
       "amount": 9,
       "asset": "ETH",
       "user": {
